@@ -1,2 +1,2 @@
-# whatsapp-clone
-WhatsApp clone application using Spring boot 3, Angular 19, Keycloak, PrimeNg
+# Nexa ChatApp
+Inspired by WhatsApp’s real‑time messaging experience, built with Spring Boot, Angular, and Keycloak.
